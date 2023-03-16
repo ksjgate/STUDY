@@ -1,6 +1,6 @@
 # UDATA STUDY during vacation
 
-### 22_Summer
+## 22_Summer
 
 |주제|스터디장|
 |--|--|
@@ -11,7 +11,7 @@
 
 
 
-### 22_Winter
+## 23_Winter
 
 |주제|스터디장|
 |--|--|
