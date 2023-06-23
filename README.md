@@ -19,3 +19,14 @@
 |Algorithm|윤민서|
 |Data Structure|김창빈|
 |Statistic|정지원|
+
+
+
+
+## 23_Summer
+|주제|스터디장|
+|--|--|
+|데이터과학을 위한 수학|윤민서|
+|Data Structure & Algorithm|?|
+|Machine Learning & DeepLearning|?|
+|Statistic|김상준|
